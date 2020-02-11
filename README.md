@@ -6,5 +6,4 @@
     <hi>hola gente, esta es mi primera pagina web</h1>
     <h2>Jordan Garcia</h2>
   </body>
-  </html>
-      
+</html>
