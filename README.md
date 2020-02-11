@@ -1,9 +1,8 @@
-<html>
-        <head>
-       <tittle>Mi primera web</tittle> 
-    </head>
-                <body>
-               <hi>hola gente, esta es mi primera pagina web</h1>
-                <h2>Jordan Garcia</h2>
-                </body>
+	<html>
+<head>
+  <title>Primera pagina de Pepe</title>
+</head>
+<body>
+&Eacute;sta es la primera p&aacute;gina de Pepe
+</body>
 </html>
