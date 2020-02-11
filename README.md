@@ -1,8 +1,11 @@
-	<html>
-<head>
-  <title>Primera pagina de Pepe</title>
-</head>
-<body>
-&Eacute;sta es la primera p&aacute;gina de Pepe
-</body>
-</html>
+<HTML>
+<HEAD>
+<TITLE>Mi primera pagina web </TITLE>
+</HEAD>
+<BODY>
+<H1 align="center" >Mi Primera pagina web </H1>
+<HR>
+<P>Esto tan sencillo es una verdadera página web, aunque le falta el contenido, 
+pero todo llegará.</P>
+</BODY>
+</HTML> 
