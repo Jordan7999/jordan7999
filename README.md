@@ -1,7 +1,7 @@
 <HTML>
-    <HEAD>
+<HEAD>
     <TITLE>Mi primera pagina web</TITLE>
-    </HEAD>
+</HEAD>
 <BODY>
 <H1 align="center" >Hola gente, soy Jordan y esta es mi primera pagina web. </H1>
 <HR>
