@@ -1,10 +1,10 @@
-<HTML>
-<HEAD>
-  <TITLE>Mi primera pagina web</TITLE>
-</HEAD>
-<BODY>
-<H1 align="center" >Hola gente, soy Jordan y esta es mi primera pagina web</H1>
-<HR>
-<P>saludos</P>
-</BODY>
-</HTML> 
+<!doctype html>
+<html>
+<head>
+  <title>Mi Primera Página</title>
+  <meta charset=”utf-8”/>
+</head>
+<body>
+  <h1>Hola gente, soy Jordan y esta es mi primera pagina</h1>
+</body>
+</html>
